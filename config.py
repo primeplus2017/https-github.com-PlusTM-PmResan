@@ -1,14 +1,14 @@
 
 
-token = 'Token' # Token
-civey = '297069483' # Id
+token = '250894872:AAG9glfl8wefgqSTW3o4EpQW_AxrnkxWbqY' # Token
+civey = '250612734' # Id
 about = 'Your About Fa Text' #Your About in Persian
 abouten = 'Your About en Text' #English About
 creatorfa = 'Creator Fa About' #Cereator persian About
 creatoren = 'Creator En About' #Creator english About
-contact = 'Your Phone Number' #Examp = +98 939 570 7155
+contact = 'Your Phone Number' #Examp = +63 938 062 2750
 contactname = 'Your Contact Name' # Your Name For Contact Name
-channel = 'https://telegram.me/SKYTMS' #Your Channel Id
+channel = 'https://telegram.me/prime_plus' #Your Channel Id
 startfa = 'Your fa Start Massage For Members' #persian Start massage Set
 starten = 'Your en Start Massage For Members' #english Start massage Set
 photo = 'bot Massage is Member send photo' #bot massaage to Mmeber For send Photo
