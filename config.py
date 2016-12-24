@@ -1,7 +1,7 @@
 
 
-token = '250894872:AAG9glfl8wefgqSTW3o4EpQW_AxrnkxWbqY' # Token
-civey = '250612734' # Id
+token = '' # Token
+civey = '' # Id
 about = 'Your About Fa Text' #Your About in Persian
 abouten = 'Your About en Text' #English About
 creatorfa = 'Creator Fa About' #Cereator persian About
